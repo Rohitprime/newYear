@@ -127,7 +127,7 @@ const HappyNewYear = ({ name }) => {
           </button>
           {wt && (
             <WhatsappShareButton
-              url={"https://9flk5z.csb.app/"}
+              url={"https://primeyear.netlify.app"}
               title={`${currentName} ne aapke liye kuch bejha hai,password =(${password}) 👉👉 `}
               hashtag={"#portfolio..."}
             >
